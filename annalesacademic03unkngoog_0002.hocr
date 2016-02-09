@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "annalesacademic03unkngoog_0002.png"; bbox 0 0 4960 6194; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1020 1985 1628 2141">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1020 1985 1628 2141">
+     <span class='ocr_line' id='line_1_1' title="bbox 1020 1985 1628 2141; baseline 0 -46"><span class='ocrx_word' id='word_1_1' title='bbox 1020 1987 1273 2096; x_wconf 85' lang='lat' dir='ltr'>Harvard</span> <span class='ocrx_word' id='word_1_2' title='bbox 1303 1985 1516 2140; x_wconf 84' lang='lat' dir='ltr'><strong>College</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1600 2101 1628 2141; x_wconf 52' lang='grc' dir='ltr'><strong>Π</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 974 3137 1555 3206">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 974 3137 1555 3206">
+     <span class='ocr_line' id='line_1_2' title="bbox 974 3137 1555 3206; baseline 0.002 -3"><span class='ocrx_word' id='word_1_4' title='bbox 974 3138 1119 3204; x_wconf 89' lang='lat' dir='ltr'>SUSAN</span> <span class='ocrx_word' id='word_1_5' title='bbox 1144 3137 1335 3206; x_wconf 88' lang='lat' dir='ltr'><strong>GREENE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1360 3139 1555 3206; x_wconf 85' lang='lat' dir='ltr'>DEXTER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 896 3379 1641 3485">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 896 3379 1641 3485">
+     <span class='ocr_line' id='line_1_3' title="bbox 896 3379 1641 3485; baseline 0.009 -8"><span class='ocrx_word' id='word_1_7' title='bbox 896 3379 1641 3485; x_wconf 58' lang='lat' dir='ltr'><strong>ufflfflffilfflfflfflfflffl</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2484 6194">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2484 6194">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2484 6194; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2484 6194; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
